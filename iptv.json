@@ -43,8 +43,8 @@
     },
     {
         "channel": "iNews",
-        "url": "https://toutatis.rctiplus.com/video/live/api/v1/live/3/url",
-        "poster": "https://static.rctiplus.id/media/300/files/fta_rcti/Channel_Logo/GTV.png",
+        "url": "https://toutatis.rctiplus.com/video/live/api/v1/live/4/url",
+        "poster": "https://static.rctiplus.id/media/300/files/fta_rcti/Channel_Logo/iNews.png",
         "group": "rctiplus"
     }
 ]
