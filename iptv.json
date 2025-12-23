@@ -7,7 +7,7 @@
     },
     {
         "channel": "Indosiar",
-        "url": "https://api.vidio.com/livestreamings/205-indosiar/stream",
+        "url": "https://api.vidio.com/livestreamings/stream/205",
         "poster": "https://thumbor.prod.vidiocdn.com/e-tiJFPZKI4QjhxAHzp_5foCkGE=/filters:quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/205/indosiar-d9a3d0.jpg",
         "group": "vidio.com"
     },
