@@ -7,7 +7,7 @@
     },
     {
         "channel": "Indosiar",
-        "url": "https://etslive-v3-vidio-com-tokenized.akamaized.net/stream/206/res=720p/file/stream.mpd?hdntl=exp=1766480059~acl=%2fstream%2f206%2fres%3d720p%2ffile%2fstream.mpd!%2fstream%2f206%2ffile%2f*%2faac%2f*!%2fstream%2f206%2ffile%2f*%2f*-720p%2f*!%2fstream%2f206%2ffile%2f*%2f*-480p%2f*!%2fstream%2f206%2ffile%2f*%2f*-360p%2f*~id=allUsers~data=hdntl~hmac=31544aca87964d719765ddd0ee05cacfc00484d5a4b0455f206fefa8cf39c41d",
+        "url": "https://api.vidio.com/livestreamings/stream/205",
         "poster": "https://thumbor.prod.vidiocdn.com/e-tiJFPZKI4QjhxAHzp_5foCkGE=/filters:quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/205/indosiar-d9a3d0.jpg",
         "group": "vidio.com"
     },
