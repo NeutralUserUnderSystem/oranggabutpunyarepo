@@ -11,6 +11,18 @@
         "poster": "https://www.transtv.co.id/themes/v25.7/src/assets/logo/01-t7.png",
         "group": "transmedia"
     },
+        {
+        "channel": "CNN",
+        "url": "https://live.cnnindonesia.com/livecnn/smil:cnntv.smil/playlist.m3u8",
+        "poster": "https://www.transtv.co.id/themes/v25.7/src/assets/logo/01-cnn.png",
+        "group": "transmedia"
+    },
+    {
+        "channel": "CNBC",
+        "url": "https://live.cnbcindonesia.com/livecnbc/smil:cnbctv.smil/playlist.m3u8",
+        "poster": "https://www.transtv.co.id/themes/v25.7/src/assets/logo/01-cnbc.png",
+        "group": "transmedia"
+    },
     {
         "channel": "MNCTV",
         "url": "https://toutatis.rctiplus.com/video/live/api/v1/live/2/url",
@@ -31,8 +43,8 @@
     },
     {
         "channel": "iNews",
-        "url": "https://toutatis.rctiplus.com/video/live/api/v1/live/4/url",
-        "poster": "https://static.rctiplus.id/media/300/files/fta_rcti/Channel_Logo/iNews.png",
+        "url": "https://toutatis.rctiplus.com/video/live/api/v1/live/3/url",
+        "poster": "https://static.rctiplus.id/media/300/files/fta_rcti/Channel_Logo/GTV.png",
         "group": "rctiplus"
     }
 ]
