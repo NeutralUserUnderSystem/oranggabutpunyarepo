@@ -6,12 +6,6 @@
         "group": "transmedia"
     },
     {
-        "channel": "Indosiar",
-        "url": "https://api.vidio.com/livestreamings/stream/205",
-        "poster": "https://thumbor.prod.vidiocdn.com/e-tiJFPZKI4QjhxAHzp_5foCkGE=/filters:quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/205/indosiar-d9a3d0.jpg",
-        "group": "vidio.com"
-    },
-    {
         "channel": "Trans7",
         "url": "https://video.detik.com/trans7/smil:trans7.smil/playlist.m3u8",
         "poster": "https://www.transtv.co.id/themes/v25.7/src/assets/logo/01-t7.png",
