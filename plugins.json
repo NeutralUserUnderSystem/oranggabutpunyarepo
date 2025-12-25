@@ -1,0 +1,21 @@
+[
+    {
+        "iconUrl": "https://i.ibb.co.com/kgRY9vxg/istockphoto-1472976011-612x612.jpg",
+        "apiVersion": 1,
+        "repositoryUrl": "https://github.com/NeutralUserUnderSystem/oranggabutpunyarepo",
+        "fileSize": 13525,
+        "status": 1,
+        "language": "id",
+        "authors": [
+            "Xcepters"
+        ],
+        "tvTypes": [
+            "Livestream"
+        ],
+        "version": 2,
+        "internalName": "IndonesiaTV",
+        "description": "Indonesia TV",
+        "url": "https://raw.githubusercontent.com/NeutralUserUnderSystem/oranggabutpunyarepo/refs/heads/main/IndonesiaTV.cs3",
+        "name": "IndonesiaTVProvider"
+    }
+]
