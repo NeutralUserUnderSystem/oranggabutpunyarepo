@@ -11,7 +11,7 @@
         "poster": "https://www.transtv.co.id/themes/v25.7/src/assets/logo/01-t7.png",
         "group": "transmedia"
     },
-        {
+    {
         "channel": "CNN",
         "url": "https://live.cnnindonesia.com/livecnn/smil:cnntv.smil/playlist.m3u8",
         "poster": "https://www.transtv.co.id/themes/v25.7/src/assets/logo/01-cnn.png",
@@ -46,5 +46,17 @@
         "url": "https://toutatis.rctiplus.com/video/live/api/v1/live/4/url",
         "poster": "https://static.rctiplus.id/media/300/files/fta_rcti/Channel_Logo/iNews.png",
         "group": "rctiplus"
+    },
+    {
+        "channel": "BeritaSatu",
+        "url": "https://www.beritasatu.com/beritasatu-live-streaming",
+        "poster": "https://www.beritasatu.com/assets/images/logobs.png",
+        "group": "beritasatu"
+    },
+    {
+        "channel": "BeritaSatu World",
+        "url": "https://www.beritasatu.com/live-tv/beritasatu-world",
+        "poster": "https://www.beritasatu.com/assets/images/logobs.png",
+        "group": "beritasatu"
     }
 ]
