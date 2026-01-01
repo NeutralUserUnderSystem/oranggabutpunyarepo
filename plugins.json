@@ -2,7 +2,6 @@
     {
         "iconUrl": "https://i.ibb.co.com/kgRY9vxg/istockphoto-1472976011-612x612.jpg",
         "apiVersion": 1,
-        "repositoryUrl": "https://github.com/NeutralUserUnderSystem/oranggabutpunyarepo",
         "fileSize": 13525,
         "status": 1,
         "language": "id",
@@ -17,27 +16,6 @@
         "description": "Indonesia TV",
         "url": "https://raw.githubusercontent.com/NeutralUserUnderSystem/oranggabutpunyarepo/refs/heads/main/IndonesiaTV.cs3",
         "name": "IndonesiaTVProvider"
-    },
-    {
-        "iconUrl": "https://t2.gstatic.com/faviconV2?client=SOCIAL&type=FAVICON&fallback_opts=TYPE,SIZE,URL&url=https://anichin.moe",
-        "apiVersion": 1,
-        "repositoryUrl": "https://github.com/NeutralUserUnderSystem/oranggabutpunyarepo",
-        "fileSize": 15292,
-        "status": 3,
-        "language": "id",
-        "authors": [
-            "Xcepters"
-        ],
-        "tvTypes": [
-            "AsianDrama",
-            "TvSeries",
-            "Anime",
-            "Movie"
-        ],
-        "version": 1,
-        "internalName": "Anichin",
-        "description": "Anichin",
-        "url": "https://raw.githubusercontent.com/NeutralUserUnderSystem/oranggabutpunyarepo/refs/heads/main/Anichin.cs3",
-        "name": "AnichinProvider"
     }
+    
 ]
