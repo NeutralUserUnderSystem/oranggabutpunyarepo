@@ -11,6 +11,12 @@
         "poster": "https://www.transtv.co.id/themes/v25.7/src/assets/logo/01-t7.png",
         "group": "transmedia"
     },
+{
+        "channel": "TribunNews",
+        "url": "https://m.tribunnews.com/live-streaming/playlist.m3u8",
+        "poster": "https://www.transtv.co.id/themes/v25.7/src/assets/logo/01-t7.png",
+        "group": "transmedia"
+    },
     {
         "channel": "CNN",
         "url": "https://live.cnnindonesia.com/livecnn/smil:cnntv.smil/playlist.m3u8",
