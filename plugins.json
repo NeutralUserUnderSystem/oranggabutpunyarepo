@@ -13,9 +13,27 @@
         ],
         "version": 1,
         "internalName": "IndonesiaTV",
-        "description": "Indonesia TV",
+        "description": "Jadinya Indonesia TV",
         "url": "https://raw.githubusercontent.com/NeutralUserUnderSystem/oranggabutpunyarepo/refs/heads/main/IndonesiaTV.cs3",
         "name": "IndonesiaTVProvider"
+    },
+    {
+        "iconUrl": "https://t2.gstatic.com/faviconV2?client=SOCIAL&type=FAVICON&fallback_opts=TYPE,SIZE,URL&url=https://donghub.vip&size=%size%",
+        "apiVersion": 1,
+        "fileSize": 19228,
+        "status": 1,
+        "language": "id",
+        "authors": [
+            "Xcepters"
+        ],
+        "tvTypes": [
+            "Anime"
+        ],
+        "version": 1,
+        "internalName": "Donghub",
+        "description": "Jadinya Donghub",
+        "url": "https://raw.githubusercontent.com/NeutralUserUnderSystem/oranggabutpunyarepo/refs/heads/main/Donghub.cs3",
+        "name": "DonghubProvider"
     }
     
 ]
