@@ -18,13 +18,13 @@
         "group": "transmedia"
     },
     {
-        "channel": "CNN",
+        "channel": "CNN Indonesia",
         "url": "https://live.cnnindonesia.com/livecnn/smil:cnntv.smil/playlist.m3u8",
         "poster": "https://www.transtv.co.id/themes/v25.7/src/assets/logo/01-cnn.png",
         "group": "transmedia"
     },
     {
-        "channel": "CNBC",
+        "channel": "CNBC Indonesia",
         "url": "https://live.cnbcindonesia.com/livecnbc/smil:cnbctv.smil/playlist.m3u8",
         "poster": "https://www.transtv.co.id/themes/v25.7/src/assets/logo/01-cnbc.png",
         "group": "transmedia"
@@ -56,19 +56,29 @@
     {
         "channel": "TVRI Sport",
         "url": "http://103.148.44.38:8000/play/a05u/index.m3u8",
-        "poster": "https://via.placeholder.com/300x200/1a1a2e/ffffff?text=Stream+1",
+        "poster": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/2b/TVRI_Sport_HD_logo.png/320px-TVRI_Sport_HD_logo.png",
+        "group": "stream"
+    },
+    {
+        "channel": "TVRI World",
+        "url": "https://ott-balancer.tvri.go.id/live/eds/TVRIWorld/hls/TVRIWorld.m3u8",
+        "poster": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/11/TVRI_World_logo.png/320px-TVRI_World_logo.png",
         "group": "stream"
     },
     {
         "channel": "SCTV",
         "url": "https://tvratu.my.id/vid/index.mpd?id=204&type=dash",
-        "poster": "https://via.placeholder.com/300x200/1a1a2e/ffffff?text=TV+Ratu+1",
-        "group": "stream"
+        "poster": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/cc/SCTV_Logo.svg/330px-SCTV_Logo.svg.png",
+        "group": "stream",
+        "license": "https://ratuvidio.adptv.workers.dev/index.mpd?id=204&type=drm",
+        "licenseKey": "https://ratuvidio.adptv.workers.dev/index.mpd?id=204&type=drm"
     },
     {
         "channel": "Indosiar",
         "url": "https://tvratu.my.id/vid/index.mpd?id=205&type=dash",
-        "poster": "https://via.placeholder.com/300x200/1a1a2e/ffffff?text=TV+Ratu+2",
-        "group": "stream"
+        "poster": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c8/Indosiar_2015.svg/330px-Indosiar_2015.svg.png",
+        "group": "stream",
+        "license": "https://ratuvidio.adptv.workers.dev/index.mpd?id=205&type=drm",
+        "licenseKey": "6a8b65c83036329e7185b9cd8cbdee29:0eb2beb5633f8e35cafab45af3d21de0"
     }
 ]
