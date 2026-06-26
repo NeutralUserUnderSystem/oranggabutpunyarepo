@@ -56,13 +56,13 @@
     {
         "channel": "TVRI Sport",
         "url": "http://103.148.44.38:8000/play/a05u/index.m3u8",
-        "poster": "https://tvri.go.id/storage/tv-channels/xc7pyHkQidwNBCp1TuUIZgUqNuTu86q8scKYY72i.png",
+        "poster": "https://i.ibb.co.com/MkK7VTfW/xc7py-Hk-Qidw-NBCp1-Tu-UIZg-Uq-Nu-Tu86q8sc-KYY72i.png",
         "group": "stream"
     },
     {
         "channel": "TVRI World",
         "url": "https://ott-balancer.tvri.go.id/live/eds/TVRIWorld/hls/TVRIWorld.m3u8",
-        "poster": "https://tvri.go.id/storage/tv-channels/QGJrOCpBcImqqWPNhbvvyZZxaVT4Del8oyMmZLpv.jpg",
+        "poster": "https://i.ibb.co.com/wjfnVBh/QGJr-OCp-Bc-Imqq-WPNhbvvy-ZZxa-VT4-Del8oy-Mm-ZLpv.jpg",
         "group": "stream"
     },
     {
