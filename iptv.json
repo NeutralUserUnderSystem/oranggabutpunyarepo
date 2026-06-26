@@ -66,14 +66,13 @@
         "group": "stream"
     },
     {
-        "channel": "INDOSIAR",
-        "url": "https://tvratu.my.id/vid/index.mpd?id=205&type=dash",
-        "poster": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c8/Indosiar_2015.svg/330px-Indosiar_2015.svg.png",
-        "group": "stream",
-        "license": "org.w3.clearkey",
-        "licenseKey": "6a8b65c83036329e7185b9cd8cbdee29:0eb2beb5633f8e35cafab45af3d21de0",
-        "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleCoreMedia/537.36",
-        "fallbackUrl": "https://cdnbal1.indihometv.com/atm/DASH/indosiar/indosiar-avc1_2500000=7-3277707030000000.mpd"
+    "channel": "INDOSIAR",
+    "url": "https://tvratu.my.id/vid/index.mpd?id=205&type=dash",
+    "poster": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c8/Indosiar_2015.svg/330px-Indosiar_2015.svg.png",
+    "group": "stream",
+    "license": "org.w3.clearkey",
+    "licenseKey": "6a8b65c83036329e7185b9cd8cbdee29:0eb2beb5633f8e35cafab45af3d21de0",
+    "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleCoreMedia/537.36"
     },
     {
         "channel": "SCTV",
